@@ -1,0 +1,9 @@
+/[Uu]pside[Dd]own/[Ll]ibrary/
+/[Uu]pside[Dd]own/[Tt]emp/
+/[Uu]pside[Dd]own/[Oo]bj/
+/[Uu]pside[Dd]own/[Bb]uild/
+/[Uu]pside[Dd]own/[Ll]ogs/
+/[Uu]pside[Dd]own/[MemoryCaptures]/
+*.csproj
+*.sln
+*.unitypackage
