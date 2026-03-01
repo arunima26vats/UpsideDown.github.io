@@ -1,0 +1,832 @@
+fileFormatVersion: 2
+guid: bdee7b0c7b757b445b533ccedbb66c1f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3392647555948723283
+    second: demodog_0
+  - first:
+      213: 1818169409750099703
+    second: demodog_1
+  - first:
+      213: 5868958067743810202
+    second: demodog_2
+  - first:
+      213: 503927650349904401
+    second: demodog_3
+  - first:
+      213: 8173350893269414144
+    second: demodog_4
+  - first:
+      213: 6098483226031235637
+    second: demodog_5
+  - first:
+      213: 6119874481763705217
+    second: demodog_6
+  - first:
+      213: 2948977482718230557
+    second: demodog_7
+  - first:
+      213: 4038054657345772905
+    second: demodog_8
+  - first:
+      213: 4191842686982012842
+    second: demodog_9
+  - first:
+      213: 2975076172992471363
+    second: demodog_10
+  - first:
+      213: -7653921154385129198
+    second: demodog_11
+  - first:
+      213: 1766585878503712220
+    second: demodog_12
+  - first:
+      213: 5374807632385815091
+    second: demodog_13
+  - first:
+      213: 6732715634460078405
+    second: demodog_14
+  - first:
+      213: -938817497095260133
+    second: demodog_15
+  - first:
+      213: -249923981291448839
+    second: demodog_16
+  - first:
+      213: 631058688960064222
+    second: demodog_17
+  - first:
+      213: 1244376476558737548
+    second: demodog_18
+  - first:
+      213: -4833911304216444710
+    second: demodog_19
+  - first:
+      213: 1768906827978350578
+    second: demodog_20
+  - first:
+      213: 3398561641652755087
+    second: demodog_21
+  - first:
+      213: 8867283488655972080
+    second: demodog_22
+  - first:
+      213: -5835996934146751075
+    second: demodog_23
+  - first:
+      213: -4353781787917092316
+    second: demodog_24
+  - first:
+      213: 8244775330562860474
+    second: demodog_25
+  - first:
+      213: 5411993505837464929
+    second: demodog_26
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: demodog_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 355
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35cbb642afa151f20800000000000000
+      internalID: 3392647555948723283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_1
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 355
+        width: 100
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f6e2a1f17f6b3910800000000000000
+      internalID: 1818169409750099703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 355
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a92688d744ab27150800000000000000
+      internalID: 5868958067743810202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 355
+        width: 101
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1127a9f278f4ef600800000000000000
+      internalID: 503927650349904401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_4
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 248
+        width: 101
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001f1f945539d6170800000000000000
+      internalID: 8173350893269414144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_5
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 248
+        width: 102
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5322544de2a22a450800000000000000
+      internalID: 6098483226031235637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_6
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 248
+        width: 97
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181e08baa692ee450800000000000000
+      internalID: 6119874481763705217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_7
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 248
+        width: 98
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18bb0c656fdce820800000000000000
+      internalID: 2948977482718230557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_8
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 293
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dd4baf05d0a0830800000000000000
+      internalID: 4038054657345772905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_9
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 124
+        width: 104
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafb1e7e6ba6c2a30800000000000000
+      internalID: 4191842686982012842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 124
+        width: 106
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341e1f64408994920800000000000000
+      internalID: 2975076172992471363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_11
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 124
+        width: 107
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211d606234fc7c590800000000000000
+      internalID: -7653921154385129198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_12
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 124
+        width: 98
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd56f692f7c248810800000000000000
+      internalID: 1766585878503712220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_13
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 187
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3323a609017279a40800000000000000
+      internalID: 5374807632385815091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_14
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 175
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54136b5b2396f6d50800000000000000
+      internalID: 6732715634460078405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 96
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1837b0e576a8f2f0800000000000000
+      internalID: -938817497095260133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_16
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1
+        width: 97
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f595429677188cf0800000000000000
+      internalID: -249923981291448839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_17
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1
+        width: 104
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda63ebb888f1c800800000000000000
+      internalID: 631058688960064222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_18
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1
+        width: 102
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c80c22cffc9e44110800000000000000
+      internalID: 1244376476558737548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_19
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 56
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad00f6ca74f7aecb0800000000000000
+      internalID: -4833911304216444710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_20
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 61
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff9962536b6c8810800000000000000
+      internalID: 1768906827978350578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_21
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 11
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a1bf58ecd1a2f20800000000000000
+      internalID: 3398561641652755087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_22
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 0
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f696002a5bee0b70800000000000000
+      internalID: 8867283488655972080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_23
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 5
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d950ae575bf520fa0800000000000000
+      internalID: -5835996934146751075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_24
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 11
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42af2adf7824493c0800000000000000
+      internalID: -4353781787917092316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_25
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 0
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab56a1ffa735b6270800000000000000
+      internalID: 8244775330562860474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: demodog_26
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 5
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16db92a6b634b1b40800000000000000
+      internalID: 5411993505837464929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      demodog_0: 3392647555948723283
+      demodog_1: 1818169409750099703
+      demodog_10: 2975076172992471363
+      demodog_11: -7653921154385129198
+      demodog_12: 1766585878503712220
+      demodog_13: 5374807632385815091
+      demodog_14: 6732715634460078405
+      demodog_15: -938817497095260133
+      demodog_16: -249923981291448839
+      demodog_17: 631058688960064222
+      demodog_18: 1244376476558737548
+      demodog_19: -4833911304216444710
+      demodog_2: 5868958067743810202
+      demodog_20: 1768906827978350578
+      demodog_21: 3398561641652755087
+      demodog_22: 8867283488655972080
+      demodog_23: -5835996934146751075
+      demodog_24: -4353781787917092316
+      demodog_25: 8244775330562860474
+      demodog_26: 5411993505837464929
+      demodog_3: 503927650349904401
+      demodog_4: 8173350893269414144
+      demodog_5: 6098483226031235637
+      demodog_6: 6119874481763705217
+      demodog_7: 2948977482718230557
+      demodog_8: 4038054657345772905
+      demodog_9: 4191842686982012842
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
